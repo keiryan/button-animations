@@ -1,4 +1,4 @@
-Icons as buttons from Google fonts with *subtle* animations.
+Icons as buttons from Google Fonts with *subtle* animations.
 
 🧑‍💻 Live demo here: https://button-animations.vercel.app/
 
