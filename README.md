@@ -1,4 +1,4 @@
-Icon buttons from Google Icons with __*subtle*__ animations. ✨💻
+Icon buttons from Google Icons with __*subtle*__ animations. ✨💻✨
 
 🧑‍💻 Live demo here: https://button-animations.vercel.app/
 
